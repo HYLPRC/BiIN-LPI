@@ -11,7 +11,10 @@ This repository contains the official implementation of the paper:
 <p align="center">
   <img src="framework.png" alt="BiIN-LPI Framework" width="650">
 </p>
+All datasets used in this work are publicly available and can be downloaded from the following link:  
+👉 [Google Drive Dataset](https://drive.google.com/drive/folders/11j-UZmcGegzxNt5bpGVZDPRAjfQCsNcs?usp=sharing)  
 
+After downloading, please place the dataset files into the `data_LPI/` directory.
 ---
 
 ## 📁 Directory Structure
